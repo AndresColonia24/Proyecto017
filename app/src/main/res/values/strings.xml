@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Material</string>
+    <string name="label_name">Name</string>
+    <string name="hint_name">Escribe aqui</string>
+    <string name="date">dd/mm/aa</string>
+    <string name="helper_Date"></string>
+    <string name="fab_content_desc">Save</string>
+    <string name="search_button">Search</string>
+    <string name="noteTitle">Note date:</string>
+</resources>
